@@ -106,7 +106,7 @@ vertical-align: middle;
 padding: 0px 0px 0px 0px;
 margin: 0px;
 }
-nav a {
+nav a {                                                                                                                                                 
 padding: 30px;
 color: white;
 text-decoration: none;
@@ -132,7 +132,7 @@ display: flex;
 #button1{
 padding: 10px 40px;
 margin: 0px;
-background-color: blue;
+background-color: blue;    
 border: 1px black solid;
 color:white;
 }
@@ -209,3 +209,9 @@ footer a:hover, footer a:active {
 	background-color: white;
 }
 /* End the footer code */
+
+/* ---------- End Index.html code ---------- */
+
+/* ------- Begin services.html code ------- */
+
+/* Begin main image code
