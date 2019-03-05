@@ -71,6 +71,7 @@ body {
 
 
 .container {
+	width: 80%;
 margin: 0 auto;
 background-color: gray;
 }
@@ -104,6 +105,12 @@ vertical-align: middle;
 #nav-menu{
 padding: 0px 0px 0px 0px;
 margin: 0px;
+}
+#nav-logo {
+	order: 1
+}
+#nav-menu{ 
+ order: 2;
 }
 nav a {                                                                                                                                                 
 padding: 30px;
