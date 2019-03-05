@@ -71,7 +71,6 @@ body {
 
 
 .container {
-width: 1000px;
 margin: 0 auto;
 background-color: gray;
 }
@@ -106,29 +105,23 @@ vertical-align: middle;
 padding: 0px 0px 0px 0px;
 margin: 0px;
 }
-nav a {                                                                                                                                                 
-padding: 30px;
+nav a {                                           padding: 30px;
 color: white;
 text-decoration: none;
 }
 /* End Header/Navigation menu code */
 /* Begin The Call to Action code */
 
-#section1{
+#calltoaction{
 width:100%;
 padding: 10px 0px;
 text-align: center;
 margin: 100px 0px 10px 0px;
-
 display: flex;
 	flex-direction: row;
-	justify-content: space-around;
 	flex-wrap: wrap;
-	align-items: center;
-	align-content: stretch;
+
 }
-
-
 #button1{
 padding: 10px 40px;
 margin: 0px;
